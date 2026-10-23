@@ -4,7 +4,7 @@
 
 웹페이지: https://kimjindol2025.github.io/bigwash-blog-posts/
 
-전체 글 51편
+전체 글 54편
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
@@ -13,6 +13,9 @@
 | 2026-10-23 | 3억 원 드림카 첫 자동세차에서 선루프로 물이 샜다, 한 번도 안 연 선루프 누수와 노터치 세차 거부 답변 사례 | 2장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-23-sunroof-leak-first-auto-wash.html) · [원문](posts/2026-10-23-sunroof-leak-first-auto-wash.txt) |
 | 2026-10-23 | 스타리아 EV 모터룸에 빗물 줄줄, 설명서는 고압 세차 때 모터룸에 물 뿌리지 말라는데 현대차 답변은 방수 처리돼 괜찮다 | 2장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-23-staria-ev-motor-room-water-wash.html) · [원문](posts/2026-10-23-staria-ev-motor-room-water-wash.txt) |
 | 2026-10-23 | 유막 제거 뒤 발수코팅까지 한 번에, 소낙스 2in1 유리발수코팅세정제 사용기에서 짚은 사용법과 주의점 | 2장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-23-sonax-2in1-glass-coating-cleaner-review.html) · [원문](posts/2026-10-23-sonax-2in1-glass-coating-cleaner-review.txt) |
+| 2026-10-23 | 셀프세차 입문 세트는 2만 원대, 타월 한 장으로 휠까지 닦으면 흠집이 남는 이유 | 2장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-23-self-wash-starter-kit-towel-rules.html) · [원문](posts/2026-10-23-self-wash-starter-kit-towel-rules.txt) |
+| 2026-10-23 | 사진 속 세차장으로 안내해 한마디면 길을 찾는 차, 구글 제미나이 개인화는 직접 켜야 작동 | 2장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-23-gemini-android-auto-car-wash-photo-navigation.html) · [원문](posts/2026-10-23-gemini-android-auto-car-wash-photo-navigation.txt) |
+| 2026-10-23 | 1985년 대구 기사식당 앞 노상 세차, 폐수 시설 하나 없이 하수도로 흘러간 기름물 | 2장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-23-daegu-1985-street-car-wash-wastewater.html) · [원문](posts/2026-10-23-daegu-1985-street-car-wash-wastewater.txt) |
 | 2026-10-23 | 방향제를 뿌려도 차 냄새가 안 빠진다면, 실내세차 전에 먼저 볼 곳 다섯 군데 | 2장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-23-car-odor-air-freshener-check-spots.html) · [원문](posts/2026-10-23-car-odor-air-freshener-check-spots.txt) |
 | 2026-10-22 | 자동세차 뒤 카메라가 모두 꺼진 테슬라 모델 Y, 앞유리 실링 누수로 수리 견적 972만원 나온 사연 | 2장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-22-tesla-model-y-car-wash-seal-leak.html) · [원문](posts/2026-10-22-tesla-model-y-car-wash-seal-leak.txt) |
 | 2026-10-22 | 벤츠 서클 회원이면 소낙스 카케어 세차 최대 10퍼센트 할인, 세차와 유리막코팅 이용권은 칼라하리 골드와 하이테크 실버 등급만 | 2장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-22-sonax-mercedes-circle-wash-coating.html) · [원문](posts/2026-10-22-sonax-mercedes-circle-wash-coating.txt) |
