@@ -4,11 +4,12 @@
 
 웹페이지: https://kimjindol2025.github.io/bigwash-blog-posts/
 
-전체 글 56편
+전체 글 57편
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
 | 2026-10-24 | 동네 의원 실손보험 청구, 실손24 연계 병원이면 영수증 사진 없이 끝나요 연계율 절반일 때 먼저 볼 것 | 2장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-24-silson24-clinic-pharmacy-claim-check.html) · [원문](posts/2026-10-24-silson24-clinic-pharmacy-claim-check.txt) |
+| 2026-10-24 | 신용점수 올리기, 통신비와 건강보험료 납부내역 가점은 한 번 내고 끝이 아니에요 연체 10만원 5영업일 기준까지 정리 | 2장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-24-credit-score-nonfinancial-data-points.html) · [원문](posts/2026-10-24-credit-score-nonfinancial-data-points.txt) |
 | 2026-10-24 | 자동차보험 마일리지 특약 환급, 계기판 사진 기한 놓치면 특약이 사라져요 가입 직후와 만기 45일 전에 할 일 | 2장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-24-car-insurance-mileage-refund-photo-deadline.html) · [원문](posts/2026-10-24-car-insurance-mileage-refund-photo-deadline.txt) |
 | 2026-10-23 | 용인시청 지하 스팀세차장 효, 어르신들이 닦아 주는 세차장과 국무총리표창 받은 용인시니어클럽 이야기 | 2장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-23-yongin-senior-steam-car-wash-hyo.html) · [원문](posts/2026-10-23-yongin-senior-steam-car-wash-hyo.txt) |
 | 2026-10-23 | 세차장 물 최대 70퍼센트 다시 쓴다, 더씨 워시루프가 정부 과제 두 개에 동시 선정된 이유 | 2장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-23-thec-washloop-car-wash-water-reuse.html) · [원문](posts/2026-10-23-thec-washloop-car-wash-water-reuse.txt) |
