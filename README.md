@@ -4,10 +4,11 @@
 
 웹페이지: https://kimjindol2025.github.io/bigwash-blog-posts/
 
-전체 글 60편
+전체 글 61편
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
+| 2026-10-26 | 교통사고 경상환자 8주 넘게 치료받으려면 사고 7주 안에 서류 제출, 향후치료비 합의 기준까지 달라진 점 | 2장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-26-minor-injury-8week-review-future-treatment-cost.html) · [원문](posts/2026-10-26-minor-injury-8week-review-future-treatment-cost.txt) |
 | 2026-10-25 | 썬팅 농도 법 기준 앞유리 70퍼센트 운전석 옆유리 40퍼센트, 필름 숫자와 실제 투과율이 다른 이유까지 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-25-window-tint-legal-limit-night-visibility.html) · [원문](posts/2026-10-25-window-tint-legal-limit-night-visibility.txt) |
 | 2026-10-25 | 중고차 팔고 나서 꼭 챙길 세 가지, 명의이전 15일과 자동차세 연납 환급, 자동차보험 해지 환급까지 정리 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-25-used-car-sale-tax-refund-insurance.html) · [원문](posts/2026-10-25-used-car-sale-tax-refund-insurance.txt) |
 | 2026-10-25 | 장기렌트 중도해지하면 위약금이 얼마나 나올까, 표준약관 10퍼센트와 실제 계약 20에서 35퍼센트의 차이와 반납 감가 정산까지 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-25-long-term-rent-early-termination-return-fee.html) · [원문](posts/2026-10-25-long-term-rent-early-termination-return-fee.txt) |
