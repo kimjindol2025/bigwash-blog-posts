@@ -4,12 +4,13 @@
 
 웹페이지: https://kimjindol2025.github.io/bigwash-blog-posts/
 
-전체 글 59편
+전체 글 60편
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
 | 2026-10-25 | 썬팅 농도 법 기준 앞유리 70퍼센트 운전석 옆유리 40퍼센트, 필름 숫자와 실제 투과율이 다른 이유까지 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-25-window-tint-legal-limit-night-visibility.html) · [원문](posts/2026-10-25-window-tint-legal-limit-night-visibility.txt) |
 | 2026-10-25 | 중고차 팔고 나서 꼭 챙길 세 가지, 명의이전 15일과 자동차세 연납 환급, 자동차보험 해지 환급까지 정리 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-25-used-car-sale-tax-refund-insurance.html) · [원문](posts/2026-10-25-used-car-sale-tax-refund-insurance.txt) |
+| 2026-10-25 | 장기렌트 중도해지하면 위약금이 얼마나 나올까, 표준약관 10퍼센트와 실제 계약 20에서 35퍼센트의 차이와 반납 감가 정산까지 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-25-long-term-rent-early-termination-return-fee.html) · [원문](posts/2026-10-25-long-term-rent-early-termination-return-fee.txt) |
 | 2026-10-24 | 동네 의원 실손보험 청구, 실손24 연계 병원이면 영수증 사진 없이 끝나요 연계율 절반일 때 먼저 볼 것 | 2장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-24-silson24-clinic-pharmacy-claim-check.html) · [원문](posts/2026-10-24-silson24-clinic-pharmacy-claim-check.txt) |
 | 2026-10-24 | 신용점수 올리기, 통신비와 건강보험료 납부내역 가점은 한 번 내고 끝이 아니에요 연체 10만원 5영업일 기준까지 정리 | 2장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-24-credit-score-nonfinancial-data-points.html) · [원문](posts/2026-10-24-credit-score-nonfinancial-data-points.txt) |
 | 2026-10-24 | 자동차보험 마일리지 특약 환급, 계기판 사진 기한 놓치면 특약이 사라져요 가입 직후와 만기 45일 전에 할 일 | 2장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-24-car-insurance-mileage-refund-photo-deadline.html) · [원문](posts/2026-10-24-car-insurance-mileage-refund-photo-deadline.txt) |
