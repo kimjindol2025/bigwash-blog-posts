@@ -4,11 +4,12 @@
 
 웹페이지: https://kimjindol2025.github.io/bigwash-blog-posts/
 
-전체 글 65편
+전체 글 66편
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
 | 2026-10-27 | 교통사고 피해자가 합의를 거부할 때 형사공탁, 7월 양형기준 바뀐 뒤 감형 효과는 어떻게 달라졌나 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-27-traffic-accident-criminal-deposit-sentencing.html) · [원문](posts/2026-10-27-traffic-accident-criminal-deposit-sentencing.txt) |
+| 2026-10-27 | 사고 수리 맡겼더니 유리막코팅 공짜로 해 준다는 말, 품질보증서 시공일자 하나로 보험사기 공범이 되는 이유 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-27-glass-coating-free-offer-insurance-fraud.html) · [원문](posts/2026-10-27-glass-coating-free-offer-insurance-fraud.txt) |
 | 2026-10-27 | 가족한정 자동차보험, 형제가 내 차를 몰다 사고 나면 대인배상1만 남는 이유와 전날 들어야 하는 특약 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-27-family-only-driver-rider-sibling-accident.html) · [원문](posts/2026-10-27-family-only-driver-rider-sibling-accident.txt) |
 | 2026-10-26 | 청년 특례전세보증 만 39세까지 확대, 신혼과 자녀 가구 3억원 한도와 부부 중 한 명 소득 7천만원 기준 | 0장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-26-youth-jeonse-guarantee-age39-300m.html) · [원문](posts/2026-10-26-youth-jeonse-guarantee-age39-300m.txt) |
 | 2026-10-26 | 교통사고 경상환자 8주 넘게 치료받으려면 사고 7주 안에 서류 제출, 향후치료비 합의 기준까지 달라진 점 | 2장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-26-minor-injury-8week-review-future-treatment-cost.html) · [원문](posts/2026-10-26-minor-injury-8week-review-future-treatment-cost.txt) |
