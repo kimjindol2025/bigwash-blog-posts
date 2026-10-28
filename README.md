@@ -4,10 +4,11 @@
 
 웹페이지: https://kimjindol2025.github.io/bigwash-blog-posts/
 
-전체 글 67편
+전체 글 68편
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
+| 2026-10-28 | PPF 붙인 차가 사고 나면 필름값은 누가 낼까, 자차보험 증권 기재 여부와 제조사 보증에서 빠지는 공임비 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-28-ppf-accident-insurance-warranty.html) · [원문](posts/2026-10-28-ppf-accident-insurance-warranty.txt) |
 | 2026-10-28 | 임신확인서 한 장으로 자동차보험이 최대 30퍼센트대까지 내려가는 자녀할인 특약, 태아일 때 넣어야 하는 이유 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-28-child-discount-rider-fetus-pregnancy.html) · [원문](posts/2026-10-28-child-discount-rider-fetus-pregnancy.txt) |
 | 2026-10-27 | 교통사고 피해자가 합의를 거부할 때 형사공탁, 7월 양형기준 바뀐 뒤 감형 효과는 어떻게 달라졌나 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-27-traffic-accident-criminal-deposit-sentencing.html) · [원문](posts/2026-10-27-traffic-accident-criminal-deposit-sentencing.txt) |
 | 2026-10-27 | 사고 수리 맡겼더니 유리막코팅 공짜로 해 준다는 말, 품질보증서 시공일자 하나로 보험사기 공범이 되는 이유 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-27-glass-coating-free-offer-insurance-fraud.html) · [원문](posts/2026-10-27-glass-coating-free-offer-insurance-fraud.txt) |
