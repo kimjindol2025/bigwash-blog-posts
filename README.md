@@ -4,10 +4,11 @@
 
 웹페이지: https://kimjindol2025.github.io/bigwash-blog-posts/
 
-전체 글 69편
+전체 글 70편
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
+| 2026-10-29 | 자동차보험 긴급출동 견인 10km 넘으면 1km당 요금, 연 6회 다 쓰면 추가 가입도 안 되는 이유 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-29-emergency-roadside-tow-distance-count.html) · [원문](posts/2026-10-29-emergency-roadside-tow-distance-count.txt) |
 | 2026-10-28 | 4세대 실손보험 비급여 100만 원 넘게 받으면 보험료가 오른다, 할증 5단계 기준과 갱신 전 확인할 것 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-28-silson-4th-nonpay-surcharge-grade.html) · [원문](posts/2026-10-28-silson-4th-nonpay-surcharge-grade.txt) |
 | 2026-10-28 | PPF 붙인 차가 사고 나면 필름값은 누가 낼까, 자차보험 증권 기재 여부와 제조사 보증에서 빠지는 공임비 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-28-ppf-accident-insurance-warranty.html) · [원문](posts/2026-10-28-ppf-accident-insurance-warranty.txt) |
 | 2026-10-28 | 임신확인서 한 장으로 자동차보험이 최대 30퍼센트대까지 내려가는 자녀할인 특약, 태아일 때 넣어야 하는 이유 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-28-child-discount-rider-fetus-pregnancy.html) · [원문](posts/2026-10-28-child-discount-rider-fetus-pregnancy.txt) |
