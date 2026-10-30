@@ -4,11 +4,12 @@
 
 웹페이지: https://kimjindol2025.github.io/bigwash-blog-posts/
 
-전체 글 72편
+전체 글 73편
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
 | 2026-10-30 | 카드값 연체 다 갚았는데 신용점수가 그대로인 이유, 상환 뒤 연체 기록이 1년 3년 5년 남는 기준 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-30-overdue-record-after-repay-1y-3y-5y.html) · [원문](posts/2026-10-30-overdue-record-after-repay-1y-3y-5y.txt) |
+| 2026-10-30 | 친구 차는 되고 아버지 차와 회사 차는 안 되는 이유, 다른 자동차 운전 특약이 보상을 거절하는 네 가지 경우 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-30-other-car-driving-rider-father-company-rental.html) · [원문](posts/2026-10-30-other-car-driving-rider-father-company-rental.txt) |
 | 2026-10-29 | 중고차 산 지 30일 2천km 안에 고장 나면 성능점검 책임보험, 아무 정비소에서 먼저 고치면 못 받는 이유 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-29-used-car-inspection-liability-30day-2000km.html) · [원문](posts/2026-10-29-used-car-inspection-liability-30day-2000km.txt) |
 | 2026-10-29 | 자동차보험 긴급출동 견인 10km 넘으면 1km당 요금, 연 6회 다 쓰면 추가 가입도 안 되는 이유 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-29-emergency-roadside-tow-distance-count.html) · [원문](posts/2026-10-29-emergency-roadside-tow-distance-count.txt) |
 | 2026-10-28 | 4세대 실손보험 비급여 100만 원 넘게 받으면 보험료가 오른다, 할증 5단계 기준과 갱신 전 확인할 것 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-28-silson-4th-nonpay-surcharge-grade.html) · [원문](posts/2026-10-28-silson-4th-nonpay-surcharge-grade.txt) |
