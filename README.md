@@ -4,10 +4,11 @@
 
 웹페이지: https://kimjindol2025.github.io/bigwash-blog-posts/
 
-전체 글 77편
+전체 글 78편
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
+| 2026-11-01 | 독감 유행주의보 기간 타미플루, 검사 없이 건강보험 되는 사람과 48시간 기준 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-01-flu-advisory-tamiflu-no-test-insurance-48h.html) · [원문](posts/2026-11-01-flu-advisory-tamiflu-no-test-insurance-48h.txt) |
 | 2026-10-31 | 연말정산 미리보기 12월 18일에 닫혀요, 남은 두 달 카드 공제와 연금계좌 한도부터 확인하기 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-31-year-end-tax-preview-dec18-card-pension.html) · [원문](posts/2026-10-31-year-end-tax-preview-dec18-card-pension.txt) |
 | 2026-10-31 | 국가기술자격 시험장 신분증, 모바일 신분증은 되고 캡처 화면과 대학 학생증은 안 되는 이유 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-31-qnet-exam-id-mobile-capture-not-allowed.html) · [원문](posts/2026-10-31-qnet-exam-id-mobile-capture-not-allowed.txt) |
 | 2026-10-31 | 금융사 개인정보 유출 뒤 오는 보상 안내 문자, 링크 누르기 전에 안심차단 3종과 노출자 등록부터 하세요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-31-data-breach-safe-block-exposure-register.html) · [원문](posts/2026-10-31-data-breach-safe-block-exposure-register.txt) |
