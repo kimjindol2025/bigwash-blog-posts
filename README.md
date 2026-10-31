@@ -4,11 +4,12 @@
 
 웹페이지: https://kimjindol2025.github.io/bigwash-blog-posts/
 
-전체 글 76편
+전체 글 77편
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
 | 2026-10-31 | 연말정산 미리보기 12월 18일에 닫혀요, 남은 두 달 카드 공제와 연금계좌 한도부터 확인하기 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-31-year-end-tax-preview-dec18-card-pension.html) · [원문](posts/2026-10-31-year-end-tax-preview-dec18-card-pension.txt) |
+| 2026-10-31 | 국가기술자격 시험장 신분증, 모바일 신분증은 되고 캡처 화면과 대학 학생증은 안 되는 이유 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-31-qnet-exam-id-mobile-capture-not-allowed.html) · [원문](posts/2026-10-31-qnet-exam-id-mobile-capture-not-allowed.txt) |
 | 2026-10-31 | 금융사 개인정보 유출 뒤 오는 보상 안내 문자, 링크 누르기 전에 안심차단 3종과 노출자 등록부터 하세요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-31-data-breach-safe-block-exposure-register.html) · [원문](posts/2026-10-31-data-breach-safe-block-exposure-register.txt) |
 | 2026-10-30 | 카드값 연체 다 갚았는데 신용점수가 그대로인 이유, 상환 뒤 연체 기록이 1년 3년 5년 남는 기준 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-30-overdue-record-after-repay-1y-3y-5y.html) · [원문](posts/2026-10-30-overdue-record-after-repay-1y-3y-5y.txt) |
 | 2026-10-30 | 친구 차는 되고 아버지 차와 회사 차는 안 되는 이유, 다른 자동차 운전 특약이 보상을 거절하는 네 가지 경우 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-10-30-other-car-driving-rider-father-company-rental.html) · [원문](posts/2026-10-30-other-car-driving-rider-father-company-rental.txt) |
