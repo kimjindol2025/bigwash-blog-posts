@@ -4,10 +4,11 @@
 
 웹페이지: https://kimjindol2025.github.io/bigwash-blog-posts/
 
-전체 글 80편
+전체 글 81편
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
+| 2026-11-02 | 수능 11월 19일, 스마트워치와 스마트안경은 차고만 있어도 다음 해 응시까지 막혀요 1교시 전 제출 규칙 정리 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-02-suneung-smartwatch-glasses-submit-before-period1.html) · [원문](posts/2026-11-02-suneung-smartwatch-glasses-submit-before-period1.txt) |
 | 2026-11-01 | 전세사기 피해 보증금 3분의 1 최소보장 11월 13일 시행, 경매 배당이 적어도 받는 차액 계산법과 신청 시점 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-01-jeonse-fraud-minimum-guarantee-one-third-nov13.html) · [원문](posts/2026-11-01-jeonse-fraud-minimum-guarantee-one-third-nov13.txt) |
 | 2026-11-01 | 독감 유행주의보 기간 타미플루, 검사 없이 건강보험 되는 사람과 48시간 기준 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-01-flu-advisory-tamiflu-no-test-insurance-48h.html) · [원문](posts/2026-11-01-flu-advisory-tamiflu-no-test-insurance-48h.txt) |
 | 2026-11-01 | 사망보험금 1억 종신보험을 유동화해도 한 달 30만원대인 이유, 만 55세 신청 조건과 되돌릴 수 없는 감액 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-01-death-benefit-liquidation-55-surrender-value.html) · [원문](posts/2026-11-01-death-benefit-liquidation-55-surrender-value.txt) |
