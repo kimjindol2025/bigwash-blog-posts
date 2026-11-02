@@ -4,10 +4,11 @@
 
 웹페이지: https://kimjindol2025.github.io/bigwash-blog-posts/
 
-전체 글 83편
+전체 글 84편
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
+| 2026-11-03 | 희귀질환과 중증난치질환 본인부담 12월부터 10퍼센트에서 7퍼센트로, 산정특례 등록과 재등록 기한부터 확인하세요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-03-rare-disease-copay-10-to-7-december-registration.html) · [원문](posts/2026-11-03-rare-disease-copay-10-to-7-december-registration.txt) |
 | 2026-11-02 | 윈도우10 보안 업데이트 10월 13일에 끝난 줄 알았다면, 개인용 PC는 2027년 10월 12일까지 연장됐어요 등록 여부부터 확인하세요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-02-windows10-esu-extended-2027-oct12.html) · [원문](posts/2026-11-02-windows10-esu-extended-2027-oct12.txt) |
 | 2026-11-02 | 수능 11월 19일, 스마트워치와 스마트안경은 차고만 있어도 다음 해 응시까지 막혀요 1교시 전 제출 규칙 정리 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-02-suneung-smartwatch-glasses-submit-before-period1.html) · [원문](posts/2026-11-02-suneung-smartwatch-glasses-submit-before-period1.txt) |
 | 2026-11-02 | 보험계약대출 한도 11월 10일부터 70퍼센트로 줄어드는 곳이 있어요, 연말 약관대출 받기 전에 확인할 네 가지 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-02-policy-loan-limit-cut-kb-70-nov10.html) · [원문](posts/2026-11-02-policy-loan-limit-cut-kb-70-nov10.txt) |
