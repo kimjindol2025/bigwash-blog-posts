@@ -4,11 +4,12 @@
 
 웹페이지: https://kimjindol2025.github.io/bigwash-blog-posts/
 
-전체 글 88편
+전체 글 89편
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
 | 2026-11-04 | 악성코드 검사 사이트 바이러스토탈에 올린 파일, 유료 회원이 내려받을 수 있어요 대통령 순방단 명단 노출로 본 업로드 전 확인할 점 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-04-virustotal-upload-shared-premium-passport-list.html) · [원문](posts/2026-11-04-virustotal-upload-shared-premium-passport-list.txt) |
+| 2026-11-04 | 5월에 놓친 근로장려금 12월 1일까지 기한 후 신청하면 산정액의 95퍼센트 받아요 올해 새로 안내받은 1만 가구도 확인하세요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-04-eitc-late-apply-dec1-95pct-late-income-data.html) · [원문](posts/2026-11-04-eitc-late-apply-dec1-95pct-late-income-data.txt) |
 | 2026-11-04 | 보증금 맡기면 신용카드 발급, 신한카드와 우리카드 대상은 신용점수 낮은 사람이 아니라 점수가 아예 안 나오는 사람이에요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-04-deposit-backed-credit-card-thin-filer-shinhan-woori.html) · [원문](posts/2026-11-04-deposit-backed-credit-card-thin-filer-shinhan-woori.txt) |
 | 2026-11-03 | 희귀질환과 중증난치질환 본인부담 12월부터 10퍼센트에서 7퍼센트로, 산정특례 등록과 재등록 기한부터 확인하세요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-03-rare-disease-copay-10-to-7-december-registration.html) · [원문](posts/2026-11-03-rare-disease-copay-10-to-7-december-registration.txt) |
 | 2026-11-03 | 정보처리기사 필기 2027년부터 4과목 80문항으로, 소프트웨어 설계 과목은 어디로 가고 지금 교재는 써도 될까 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-03-info-processing-engineer-2027-written-4-subjects-80q.html) · [원문](posts/2026-11-03-info-processing-engineer-2027-written-4-subjects-80q.txt) |
