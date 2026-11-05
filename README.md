@@ -4,10 +4,11 @@
 
 웹페이지: https://kimjindol2025.github.io/bigwash-blog-posts/
 
-전체 글 92편
+전체 글 93편
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
+| 2026-11-06 | 보장 1억 원 특약도 받을 확률이 너무 낮으면 못 나와요, 내년 1월 계약부터 달라지는 보험 설계 기준 정리 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-06-insurance-rare-risk-rider-limit-100k-cash-choice-2027.html) · [원문](posts/2026-11-06-insurance-rare-risk-rider-limit-100k-cash-choice-2027.txt) |
 | 2026-11-05 | 수시 최종합격으로 수능을 안 봤다면 응시수수료 60퍼센트 돌려받아요 11월 23일부터 27일까지 원서 낸 곳에서 신청하세요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-05-suneung-fee-refund-60pct-early-admission-nov23.html) · [원문](posts/2026-11-05-suneung-fee-refund-60pct-early-admission-nov23.txt) |
 | 2026-11-05 | 공공시스템 취약점 점검 연 1회 의무 해설이 안내서에 들어왔어요 개보위가 안전조치 기준 안내서를 11월 5일 개정했습니다 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-05-pipc-safety-measures-guide-public-vuln-annual-passkey.html) · [원문](posts/2026-11-05-pipc-safety-measures-guide-public-vuln-annual-passkey.txt) |
 | 2026-11-05 | 고위험군 아이 코로나19 백신 11월 11일부터, 생후 6개월에서 11세 접종 대상과 횟수 정리 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-05-covid-vaccine-high-risk-kids-6m-11y-nov11.html) · [원문](posts/2026-11-05-covid-vaccine-high-risk-kids-6m-11y-nov11.txt) |
