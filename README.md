@@ -4,11 +4,12 @@
 
 웹페이지: https://kimjindol2025.github.io/bigwash-blog-posts/
 
-전체 글 90편
+전체 글 91편
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
 | 2026-11-05 | 수시 최종합격으로 수능을 안 봤다면 응시수수료 60퍼센트 돌려받아요 11월 23일부터 27일까지 원서 낸 곳에서 신청하세요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-05-suneung-fee-refund-60pct-early-admission-nov23.html) · [원문](posts/2026-11-05-suneung-fee-refund-60pct-early-admission-nov23.txt) |
+| 2026-11-05 | 공공시스템 취약점 점검 연 1회 의무 해설이 안내서에 들어왔어요 개보위가 안전조치 기준 안내서를 11월 5일 개정했습니다 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-05-pipc-safety-measures-guide-public-vuln-annual-passkey.html) · [원문](posts/2026-11-05-pipc-safety-measures-guide-public-vuln-annual-passkey.txt) |
 | 2026-11-04 | 악성코드 검사 사이트 바이러스토탈에 올린 파일, 유료 회원이 내려받을 수 있어요 대통령 순방단 명단 노출로 본 업로드 전 확인할 점 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-04-virustotal-upload-shared-premium-passport-list.html) · [원문](posts/2026-11-04-virustotal-upload-shared-premium-passport-list.txt) |
 | 2026-11-04 | 5월에 놓친 근로장려금 12월 1일까지 기한 후 신청하면 산정액의 95퍼센트 받아요 올해 새로 안내받은 1만 가구도 확인하세요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-04-eitc-late-apply-dec1-95pct-late-income-data.html) · [원문](posts/2026-11-04-eitc-late-apply-dec1-95pct-late-income-data.txt) |
 | 2026-11-04 | 보증금 맡기면 신용카드 발급, 신한카드와 우리카드 대상은 신용점수 낮은 사람이 아니라 점수가 아예 안 나오는 사람이에요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-04-deposit-backed-credit-card-thin-filer-shinhan-woori.html) · [원문](posts/2026-11-04-deposit-backed-credit-card-thin-filer-shinhan-woori.txt) |
