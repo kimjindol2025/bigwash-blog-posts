@@ -4,10 +4,11 @@
 
 웹페이지: https://kimjindol2025.github.io/bigwash-blog-posts/
 
-전체 글 94편
+전체 글 95편
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
+| 2026-11-06 | 방미통위 사칭 메일이 유튜버에게 보안 패치를 요구했어요, 공식 주소와 대응 포인트 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-06-kmcc-impersonation-email-youtuber-patch-korea-kr.html) · [원문](posts/2026-11-06-kmcc-impersonation-email-youtuber-patch-korea-kr.txt) |
 | 2026-11-06 | 보장 1억 원 특약도 받을 확률이 너무 낮으면 못 나와요, 내년 1월 계약부터 달라지는 보험 설계 기준 정리 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-06-insurance-rare-risk-rider-limit-100k-cash-choice-2027.html) · [원문](posts/2026-11-06-insurance-rare-risk-rider-limit-100k-cash-choice-2027.txt) |
 | 2026-11-06 | 난임치료휴가 유급이 11월 27일부터 4일로 늘어나요, 급여 상한과 신청 시기 정리 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-06-infertility-leave-paid-4days-336840-nov27.html) · [원문](posts/2026-11-06-infertility-leave-paid-4days-336840-nov27.txt) |
 | 2026-11-05 | 수시 최종합격으로 수능을 안 봤다면 응시수수료 60퍼센트 돌려받아요 11월 23일부터 27일까지 원서 낸 곳에서 신청하세요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-05-suneung-fee-refund-60pct-early-admission-nov23.html) · [원문](posts/2026-11-05-suneung-fee-refund-60pct-early-admission-nov23.txt) |
