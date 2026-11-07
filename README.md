@@ -4,10 +4,11 @@
 
 웹페이지: https://kimjindol2025.github.io/bigwash-blog-posts/
 
-전체 글 98편
+전체 글 99편
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
+| 2026-11-08 | 11월 12일부터 숙박 플랫폼은 영업신고증 없는 숙소를 중개할 수 없어요, 예약 전에 확인할 점 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-08-lodging-unregistered-broker-ban-nov12.html) · [원문](posts/2026-11-08-lodging-unregistered-broker-ban-nov12.txt) |
 | 2026-11-07 | 1세대와 2세대 실손이라면 11월 계약전환 할인부터 보세요, 5세대 전환 시 3년 50퍼센트와 선택형 특약 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-07-silson-5th-conversion-discount-50pct-nov.html) · [원문](posts/2026-11-07-silson-5th-conversion-discount-50pct-nov.txt) |
 | 2026-11-07 | 기능사 4회 실기 빈자리 접수는 11월 8일부터예요, 정기접수 놓친 분이 확인할 일정과 환불 규칙 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-07-craftsman-4th-practical-vacancy-nov8-9.html) · [원문](posts/2026-11-07-craftsman-4th-practical-vacancy-nov8-9.txt) |
 | 2026-11-07 | 탄소중립포인트가 11월부터 19개로 늘어요, 전기수소 택시와 다회용 택배상자 확인 포인트 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-07-carbon-point-ev-taxi-reusable-box-19items-nov.html) · [원문](posts/2026-11-07-carbon-point-ev-taxi-reusable-box-19items-nov.txt) |
