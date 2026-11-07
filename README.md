@@ -4,11 +4,12 @@
 
 웹페이지: https://kimjindol2025.github.io/bigwash-blog-posts/
 
-전체 글 97편
+전체 글 98편
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
 | 2026-11-07 | 1세대와 2세대 실손이라면 11월 계약전환 할인부터 보세요, 5세대 전환 시 3년 50퍼센트와 선택형 특약 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-07-silson-5th-conversion-discount-50pct-nov.html) · [원문](posts/2026-11-07-silson-5th-conversion-discount-50pct-nov.txt) |
+| 2026-11-07 | 기능사 4회 실기 빈자리 접수는 11월 8일부터예요, 정기접수 놓친 분이 확인할 일정과 환불 규칙 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-07-craftsman-4th-practical-vacancy-nov8-9.html) · [원문](posts/2026-11-07-craftsman-4th-practical-vacancy-nov8-9.txt) |
 | 2026-11-07 | 탄소중립포인트가 11월부터 19개로 늘어요, 전기수소 택시와 다회용 택배상자 확인 포인트 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-07-carbon-point-ev-taxi-reusable-box-19items-nov.html) · [원문](posts/2026-11-07-carbon-point-ev-taxi-reusable-box-19items-nov.txt) |
 | 2026-11-06 | 방미통위 사칭 메일이 유튜버에게 보안 패치를 요구했어요, 공식 주소와 대응 포인트 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-06-kmcc-impersonation-email-youtuber-patch-korea-kr.html) · [원문](posts/2026-11-06-kmcc-impersonation-email-youtuber-patch-korea-kr.txt) |
 | 2026-11-06 | 보장 1억 원 특약도 받을 확률이 너무 낮으면 못 나와요, 내년 1월 계약부터 달라지는 보험 설계 기준 정리 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-06-insurance-rare-risk-rider-limit-100k-cash-choice-2027.html) · [원문](posts/2026-11-06-insurance-rare-risk-rider-limit-100k-cash-choice-2027.txt) |
