@@ -4,10 +4,11 @@
 
 웹페이지: https://kimjindol2025.github.io/bigwash-blog-posts/
 
-전체 글 102편
+전체 글 103편
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
+| 2026-11-09 | 한능검 제81회 원서접수가 11월 10일 오후 5시에 끝나요, 2027년 9급 공무원 한국사는 심화 3급 이상이어야 해요 | 0장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-09-korean-history-exam-81st-nov10-civil-9th-grade3.html) · [원문](posts/2026-11-09-korean-history-exam-81st-nov10-civil-9th-grade3.txt) |
 | 2026-11-09 | 채무조정 신청 직전에 받은 대출이 전체 빚의 30퍼센트를 넘으면 신청 자체가 막혀요 | 2장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-09-debt-adjustment-recent-loan-30pct-asset-review.html) · [원문](posts/2026-11-09-debt-adjustment-recent-loan-30pct-asset-review.txt) |
 | 2026-11-08 | 통신분쟁조정 신청 1년 새 2.5배, 통신사와 안 풀린 요금 다툼은 60일 조정 절차로 가져갈 수 있어요 | 0장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-08-telecom-dispute-mediation-4278-cases-60days.html) · [원문](posts/2026-11-08-telecom-dispute-mediation-4278-cases-60days.txt) |
 | 2026-11-08 | 콧물흡인기 혈압계 해외직구, 개인통관고유번호를 달라는 판매글이면 허가부터 확인하세요 | 0장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-08-medical-device-overseas-direct-buy-nasal-aspirator-bp-156.html) · [원문](posts/2026-11-08-medical-device-overseas-direct-buy-nasal-aspirator-bp-156.txt) |
