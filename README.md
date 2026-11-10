@@ -4,10 +4,11 @@
 
 웹페이지: https://kimjindol2025.github.io/bigwash-blog-posts/
 
-전체 글 105편
+전체 글 106편
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
+| 2026-11-10 | 유럽 마트 냉장실을 50도까지 올린 원격 해킹, 우리 매장 온도 제어기는 초기 비밀번호부터 바꾸세요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-10-refrigeration-controller-hacking-default-password-free-check.html) · [원문](posts/2026-11-10-refrigeration-controller-hacking-default-password-free-check.txt) |
 | 2026-11-10 | 고향사랑기부 20만 원이면 세액공제 14만 4천 원, 올해 몫은 12월 31일 결제까지 마쳐야 해요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-10-hometown-donation-200k-144k-credit-dec31.html) · [원문](posts/2026-11-10-hometown-donation-200k-144k-credit-dec31.txt) |
 | 2026-11-09 | 한능검 제81회 원서접수가 11월 10일 오후 5시에 끝나요, 2027년 9급 공무원 한국사는 심화 3급 이상이어야 해요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-09-korean-history-exam-81st-nov10-civil-9th-grade3.html) · [원문](posts/2026-11-09-korean-history-exam-81st-nov10-civil-9th-grade3.txt) |
 | 2026-11-09 | 채무조정 신청 직전에 받은 대출이 전체 빚의 30퍼센트를 넘으면 신청 자체가 막혀요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-09-debt-adjustment-recent-loan-30pct-asset-review.html) · [원문](posts/2026-11-09-debt-adjustment-recent-loan-30pct-asset-review.txt) |
