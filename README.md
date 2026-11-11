@@ -4,11 +4,12 @@
 
 웹페이지: https://kimjindol2025.github.io/bigwash-blog-posts/
 
-전체 글 109편
+전체 글 110편
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
 | 2026-11-11 | 보이스피싱 피해자 생계비 최대 200만 원, 11월 23일부터 굿네이버스로 신청받아요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-11-voice-phishing-victim-living-cost-2m-counseling-nov23.html) · [원문](posts/2026-11-11-voice-phishing-victim-living-cost-2m-counseling-nov23.txt) |
+| 2026-11-11 | 정보처리기사 필기 2027년부터 4과목 80문항, 소프트웨어 설계 과목은 어디로 갔을까요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-11-info-processing-engineer-2027-written-4subjects-80q.html) · [원문](posts/2026-11-11-info-processing-engineer-2027-written-4subjects-80q.txt) |
 | 2026-11-11 | 에너지바우처 겨울 난방비 최대 70만 1300원, 12월 31일까지 신청해야 받을 수 있어요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-11-energy-voucher-winter-701300-apply-dec31.html) · [원문](posts/2026-11-11-energy-voucher-winter-701300-apply-dec31.txt) |
 | 2026-11-10 | 유럽 마트 냉장실을 50도까지 올린 원격 해킹, 우리 매장 온도 제어기는 초기 비밀번호부터 바꾸세요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-10-refrigeration-controller-hacking-default-password-free-check.html) · [원문](posts/2026-11-10-refrigeration-controller-hacking-default-password-free-check.txt) |
 | 2026-11-10 | 고향사랑기부 20만 원이면 세액공제 14만 4천 원, 올해 몫은 12월 31일 결제까지 마쳐야 해요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-10-hometown-donation-200k-144k-credit-dec31.html) · [원문](posts/2026-11-10-hometown-donation-200k-144k-credit-dec31.txt) |
