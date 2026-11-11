@@ -4,10 +4,11 @@
 
 웹페이지: https://kimjindol2025.github.io/bigwash-blog-posts/
 
-전체 글 111편
+전체 글 112편
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
+| 2026-11-12 | 잠복결핵 검진 확인서, 11월 12일부터 보건소에 가지 않고 정부24에서 바로 발급돼요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-12-latent-tb-certificate-gov24-online-nov12.html) · [원문](posts/2026-11-12-latent-tb-certificate-gov24-online-nov12.txt) |
 | 2026-11-11 | 연말 택배 주소 오류나 지원금 문자의 링크는 누르지 마세요, 스미싱 신고는 118과 1394로 하면 돼요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-11-yearend-delivery-agency-smishing-report-118-1394.html) · [원문](posts/2026-11-11-yearend-delivery-agency-smishing-report-118-1394.txt) |
 | 2026-11-11 | 보이스피싱 피해자 생계비 최대 200만 원, 11월 23일부터 굿네이버스로 신청받아요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-11-voice-phishing-victim-living-cost-2m-counseling-nov23.html) · [원문](posts/2026-11-11-voice-phishing-victim-living-cost-2m-counseling-nov23.txt) |
 | 2026-11-11 | 정보처리기사 필기 2027년부터 4과목 80문항, 소프트웨어 설계 과목은 어디로 갔을까요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-11-info-processing-engineer-2027-written-4subjects-80q.html) · [원문](posts/2026-11-11-info-processing-engineer-2027-written-4subjects-80q.txt) |
