@@ -4,11 +4,12 @@
 
 웹페이지: https://kimjindol2025.github.io/bigwash-blog-posts/
 
-전체 글 113편
+전체 글 114편
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
 | 2026-11-12 | 증권사 주식정보 서비스, 무료체험 끝나면 자동 유료 전환이 막히고 이용료를 따로 알려 줘요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-12-stock-info-service-fee-auto-paid-ban-671.html) · [원문](posts/2026-11-12-stock-info-service-fee-auto-paid-ban-671.txt) |
+| 2026-11-12 | 알뜰폰 8개사 개인정보 제재, 주민번호 평문 보관과 선택 동의 강요까지 내 가입 정보는 괜찮을까요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-12-mvno-8-carriers-privacy-fine-17130-resident-number.html) · [원문](posts/2026-11-12-mvno-8-carriers-privacy-fine-17130-resident-number.txt) |
 | 2026-11-12 | 잠복결핵 검진 확인서, 11월 12일부터 보건소에 가지 않고 정부24에서 바로 발급돼요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-12-latent-tb-certificate-gov24-online-nov12.html) · [원문](posts/2026-11-12-latent-tb-certificate-gov24-online-nov12.txt) |
 | 2026-11-11 | 연말 택배 주소 오류나 지원금 문자의 링크는 누르지 마세요, 스미싱 신고는 118과 1394로 하면 돼요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-11-yearend-delivery-agency-smishing-report-118-1394.html) · [원문](posts/2026-11-11-yearend-delivery-agency-smishing-report-118-1394.txt) |
 | 2026-11-11 | 보이스피싱 피해자 생계비 최대 200만 원, 11월 23일부터 굿네이버스로 신청받아요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-11-voice-phishing-victim-living-cost-2m-counseling-nov23.html) · [원문](posts/2026-11-11-voice-phishing-victim-living-cost-2m-counseling-nov23.txt) |
