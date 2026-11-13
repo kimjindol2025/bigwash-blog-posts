@@ -4,10 +4,11 @@
 
 웹페이지: https://kimjindol2025.github.io/bigwash-blog-posts/
 
-전체 글 116편
+전체 글 117편
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
+| 2026-11-13 | 해외에서 처방받은 비만치료제 들고 입국해도 될까, 11월 12일부터 6병 또는 3개월치까지 휴대 반입 기준 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-13-self-treatment-medicine-carry-in-6bottles-3months-nov12.html) · [원문](posts/2026-11-13-self-treatment-medicine-carry-in-6bottles-3months-nov12.txt) |
 | 2026-11-13 | 오피스텔 상가 기준시가안 12월 2일까지 열람, 상속 증여나 매도를 앞뒀다면 내 호실 가격부터 보세요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-13-officetel-commercial-standard-price-preview-dec2.html) · [원문](posts/2026-11-13-officetel-commercial-standard-price-preview-dec2.txt) |
 | 2026-11-13 | 코인 거래소 해킹 의심만 돼도 입출금 먼저 막는다, 금융위 보안 대책에서 투자자가 볼 부분 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-13-crypto-exchange-hack-suspected-withdrawal-block-cold-wallet.html) · [원문](posts/2026-11-13-crypto-exchange-hack-suspected-withdrawal-block-cold-wallet.txt) |
 | 2026-11-12 | 증권사 주식정보 서비스, 무료체험 끝나면 자동 유료 전환이 막히고 이용료를 따로 알려 줘요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-12-stock-info-service-fee-auto-paid-ban-671.html) · [원문](posts/2026-11-12-stock-info-service-fee-auto-paid-ban-671.txt) |
