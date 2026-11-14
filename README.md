@@ -4,10 +4,11 @@
 
 웹페이지: https://kimjindol2025.github.io/bigwash-blog-posts/
 
-전체 글 118편
+전체 글 119편
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
+| 2026-11-14 | 청년 경제·금융 강연회 11월 24일과 28일 열려요, 케이무크 신청 마감과 1대1 재무상담 정리 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-14-kmooc-youth-finance-talk-nov24-28-credit-counseling.html) · [원문](posts/2026-11-14-kmooc-youth-finance-talk-nov24-28-credit-counseling.txt) |
 | 2026-11-14 | 중학생 때 올린 글과 사진 지우고 싶다면, 30세 미만은 지우개 서비스로 삭제 요청할 수 있어요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-14-eraser-service-teen-posts-delete-under30-nov13.html) · [원문](posts/2026-11-14-eraser-service-teen-posts-delete-under30-nov13.txt) |
 | 2026-11-13 | 해외에서 처방받은 비만치료제 들고 입국해도 될까, 11월 12일부터 6병 또는 3개월치까지 휴대 반입 기준 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-13-self-treatment-medicine-carry-in-6bottles-3months-nov12.html) · [원문](posts/2026-11-13-self-treatment-medicine-carry-in-6bottles-3months-nov12.txt) |
 | 2026-11-13 | 오피스텔 상가 기준시가안 12월 2일까지 열람, 상속 증여나 매도를 앞뒀다면 내 호실 가격부터 보세요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-13-officetel-commercial-standard-price-preview-dec2.html) · [원문](posts/2026-11-13-officetel-commercial-standard-price-preview-dec2.txt) |
