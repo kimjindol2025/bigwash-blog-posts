@@ -4,10 +4,11 @@
 
 웹페이지: https://kimjindol2025.github.io/bigwash-blog-posts/
 
-전체 글 124편
+전체 글 125편
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
+| 2026-11-16 | 지방대 학자금대출 이자 면제 11월 20일부터 8구간까지, 2학기 신청은 17일 마감이라 오늘 확인할 것 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-16-icl-interest-free-nonmetro-200pct-nov20-apply-nov17.html) · [원문](posts/2026-11-16-icl-interest-free-nonmetro-200pct-nov20-apply-nov17.txt) |
 | 2026-11-15 | 수능 나흘 앞 독감, 13세에서 18세 의심환자 일주일 새 39퍼센트 늘었어요, 수험생 집에서 지금 챙길 것 | 0장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-15-suneung-week-flu-teen-39pct-backup-exam-room.html) · [원문](posts/2026-11-15-suneung-week-flu-teen-39pct-backup-exam-room.txt) |
 | 2026-11-15 | 수능 끝나고 알바 시작하는 청소년, 근로계약서 서면 교부와 하루 7시간 밤 10시 제한 최저임금 10,320원 정리 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-15-suneung-teen-parttime-contract-7h-10pm-minwage.html) · [원문](posts/2026-11-15-suneung-teen-parttime-contract-7h-10pm-minwage.txt) |
 | 2026-11-15 | 홈캠 10개 중 3개에서 남의 집 영상이 보였다, 지금 쓰는 카메라는 비밀번호와 업데이트부터 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-15-homecam-3-of-10-privacy-flaw-password-update-reset.html) · [원문](posts/2026-11-15-homecam-3-of-10-privacy-flaw-password-update-reset.txt) |
