@@ -4,11 +4,12 @@
 
 웹페이지: https://kimjindol2025.github.io/bigwash-blog-posts/
 
-전체 글 122편
+전체 글 123편
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
 | 2026-11-15 | 수능 끝나고 알바 시작하는 청소년, 근로계약서 서면 교부와 하루 7시간 밤 10시 제한 최저임금 10,320원 정리 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-15-suneung-teen-parttime-contract-7h-10pm-minwage.html) · [원문](posts/2026-11-15-suneung-teen-parttime-contract-7h-10pm-minwage.txt) |
+| 2026-11-15 | 홈캠 10개 중 3개에서 남의 집 영상이 보였다, 지금 쓰는 카메라는 비밀번호와 업데이트부터 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-15-homecam-3-of-10-privacy-flaw-password-update-reset.html) · [원문](posts/2026-11-15-homecam-3-of-10-privacy-flaw-password-update-reset.txt) |
 | 2026-11-15 | 잠자는 카드포인트 2.1조 원, 2027년 5월부터 지역화폐로 전환 신청하면 다음 날부터 쓴다 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-15-card-points-2-1tn-local-currency-may2027-accountinfo.html) · [원문](posts/2026-11-15-card-points-2-1tn-local-currency-may2027-accountinfo.txt) |
 | 2026-11-14 | 청년 경제·금융 강연회 11월 24일과 28일 열려요, 케이무크 신청 마감과 1대1 재무상담 정리 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-14-kmooc-youth-finance-talk-nov24-28-credit-counseling.html) · [원문](posts/2026-11-14-kmooc-youth-finance-talk-nov24-28-credit-counseling.txt) |
 | 2026-11-14 | 중학생 때 올린 글과 사진 지우고 싶다면, 30세 미만은 지우개 서비스로 삭제 요청할 수 있어요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-14-eraser-service-teen-posts-delete-under30-nov13.html) · [원문](posts/2026-11-14-eraser-service-teen-posts-delete-under30-nov13.txt) |
