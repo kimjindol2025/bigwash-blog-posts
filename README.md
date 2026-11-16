@@ -4,10 +4,11 @@
 
 웹페이지: https://kimjindol2025.github.io/bigwash-blog-posts/
 
-전체 글 128편
+전체 글 129편
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
+| 2026-11-17 | 종부세 고지서 11월 26일까지 도착, 250만원 넘으면 나눠 내고 1주택 고령자는 납부유예까지 따져 보세요 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-17-jongbu-tax-notice-nov26-installment-250-deferral-1home.html) · [원문](posts/2026-11-17-jongbu-tax-notice-nov26-installment-250-deferral-1home.txt) |
 | 2026-11-16 | 노란우산 홈페이지 해킹 의심, 주민번호 앞 7자리까지 조회됐을 수 있어 사장님들이 지금 확인할 것 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-16-yellow-umbrella-hack-rrn7-sms-check-1666-9988.html) · [원문](posts/2026-11-16-yellow-umbrella-hack-rrn7-sms-check-1666-9988.txt) |
 | 2026-11-16 | 불법사채 피해 원스톱 지원 11월 16일부터 온라인 신청, 센터 안 가도 전담자 배정받는 방법 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-16-illegal-loan-onestop-online-ccrs-1375-60pct-void.html) · [원문](posts/2026-11-16-illegal-loan-onestop-online-ccrs-1375-60pct-void.txt) |
 | 2026-11-16 | 지방대 학자금대출 이자 면제 11월 20일부터 8구간까지, 2학기 신청은 17일 마감이라 오늘 확인할 것 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-16-icl-interest-free-nonmetro-200pct-nov20-apply-nov17.html) · [원문](posts/2026-11-16-icl-interest-free-nonmetro-200pct-nov20-apply-nov17.txt) |
