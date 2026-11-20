@@ -8,7 +8,7 @@
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
-| 2026-11-21 | 저축성보험 만기일을 놓쳤어도 연금으로 받을 수 있을까, 12월 1일부터 만기 후 3년까지 연금전환 신청과 1년 전 사전예약 | 0장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-21-savings-ins-annuity-switch-3yr-after-maturity-dec1.html) · [원문](posts/2026-11-21-savings-ins-annuity-switch-3yr-after-maturity-dec1.txt) |
+| 2026-11-21 | 저축성보험 만기일을 놓쳤어도 연금으로 받을 수 있을까, 12월 1일부터 만기 후 3년까지 연금전환 신청과 1년 전 사전예약 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-21-savings-ins-annuity-switch-3yr-after-maturity-dec1.html) · [원문](posts/2026-11-21-savings-ins-annuity-switch-3yr-after-maturity-dec1.txt) |
 | 2026-11-20 | 병원비 영수증 잃어버렸어도 괜찮을까, 3년 지나면 사라지는 실손보험금과 내년 1분기 미청구 보험금 찾기 서비스 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-20-silson-unclaimed-3yr-finder-2027q1-silson24-link-54pct.html) · [원문](posts/2026-11-20-silson-unclaimed-3yr-finder-2027q1-silson24-link-54pct.txt) |
 | 2026-11-20 | 세무사 시험 초소형 카메라 부정행위 뒤, 국가자격시험 응시 제한 3년에서 10년으로 늘리는 방안과 달라지는 감독 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-20-national-cert-exam-smart-device-cheating-tf-ban-3to10yr.html) · [원문](posts/2026-11-20-national-cert-exam-smart-device-cheating-tf-ban-3to10yr.txt) |
 | 2026-11-20 | 생애최초 주택 취득세 감면, 전입신고가 111일 만에 끝났는데도 추징이 취소된 이유 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-20-first-home-acq-tax-move-in-111days-tax-tribunal-q3.html) · [원문](posts/2026-11-20-first-home-acq-tax-move-in-111days-tax-tribunal-q3.txt) |
