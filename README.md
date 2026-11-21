@@ -4,10 +4,11 @@
 
 웹페이지: https://kimjindol2025.github.io/bigwash-blog-posts/
 
-전체 글 137편
+전체 글 138편
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
+| 2026-11-21 | 문자 스팸은 줄었는데 스팸 전화 신고는 28퍼센트 늘었어요, 올해 상반기 스팸 유통현황과 신고 방법 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-21-spam-h1-852-voice-spam-reports-up-28pct-report-tips.html) · [원문](posts/2026-11-21-spam-h1-852-voice-spam-reports-up-28pct-report-tips.txt) |
 | 2026-11-21 | 저축성보험 만기일을 놓쳤어도 연금으로 받을 수 있을까, 12월 1일부터 만기 후 3년까지 연금전환 신청과 1년 전 사전예약 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-21-savings-ins-annuity-switch-3yr-after-maturity-dec1.html) · [원문](posts/2026-11-21-savings-ins-annuity-switch-3yr-after-maturity-dec1.txt) |
 | 2026-11-21 | 콜레라 국내 감염 추정 환자 10년 만에 창원에서 확인, 복통 없는 쌀뜨물 설사가 이어질 때 알아 둘 점 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-21-cholera-domestic-case-10yr-changwon-watery-diarrhea.html) · [원문](posts/2026-11-21-cholera-domestic-case-10yr-changwon-watery-diarrhea.txt) |
 | 2026-11-21 | 아파트 리모델링 주민 동의율 75퍼센트에서 70퍼센트로, 2027년 1월 1일 이후 허가 신청분부터 적용되는 이유 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-21-apt-remodeling-consent-70pct-2027jan-vertical-review.html) · [원문](posts/2026-11-21-apt-remodeling-consent-70pct-2027jan-vertical-review.txt) |
