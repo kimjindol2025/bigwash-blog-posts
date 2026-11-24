@@ -4,10 +4,11 @@
 
 웹페이지: https://kimjindol2025.github.io/bigwash-blog-posts/
 
-전체 글 145편
+전체 글 146편
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
+| 2026-11-24 | 국제유가 3개월 만에 최저, 브렌트유 89달러대인데 우리 동네 기름값은 언제 내려갈까와 주유 전 확인법 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-24-intl-oil-3month-low-brent-89-local-price-lag-opinet-check.html) · [원문](posts/2026-11-24-intl-oil-3month-low-brent-89-local-price-lag-opinet-check.txt) |
 | 2026-11-23 | 중고차 광고 총비용 표시 의무화 입법예고, 수수료 포함 실제 가격과 연말 신차 할인 확인할 점 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-23-used-car-ad-total-cost-fee-display-yearend-new-car-discount.html) · [원문](posts/2026-11-23-used-car-ad-total-cost-fee-display-yearend-new-car-discount.txt) |
 | 2026-11-22 | 2027년 1학기 국가장학금 1차 신청 11월 24일 시작, 학자금 지원구간이 10구간에서 가부터 마까지 5구간으로 바뀌어요 | 0장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-22-national-scholarship-2027-1st-apply-nov24-5-tier-ga-ma.html) · [원문](posts/2026-11-22-national-scholarship-2027-1st-apply-nov24-5-tier-ga-ma.txt) |
 | 2026-11-22 | 12월 8일부터 근로감독관이 노동감독관으로, 30명 미만 사업장은 시도 감독도 받을 수 있어요 임금체불 처벌과 신고 방법까지 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-22-labor-inspector-rename-dec8-local-gov-under30-wage-arrears-5yr.html) · [원문](posts/2026-11-22-labor-inspector-rename-dec8-local-gov-under30-wage-arrears-5yr.txt) |
