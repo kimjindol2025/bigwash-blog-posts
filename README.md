@@ -4,10 +4,11 @@
 
 웹페이지: https://kimjindol2025.github.io/bigwash-blog-posts/
 
-전체 글 147편
+전체 글 148편
 
 | 날짜 | 제목 | 그림 | 링크 |
 |---|---|---|---|
+| 2026-11-25 | 홈플러스 피해 소상공인 정책자금 금리 연 2.5% 고정, 기존 대출자도 적용되고 신청 전 확인할 점 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-25-homeplus-smb-policy-loan-fixed-2-5pct-existing-borrower.html) · [원문](posts/2026-11-25-homeplus-smb-policy-loan-fixed-2-5pct-existing-borrower.txt) |
 | 2026-11-25 | 국민비서 알림 19종 추가, 개인통관고유부호 만료와 시민안전보험까지 앱으로 미리 받는 법 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-25-gov-secretary-alert-19-new-customs-code-expiry-civil-safety-insurance.html) · [원문](posts/2026-11-25-gov-secretary-alert-19-new-customs-code-expiry-civil-safety-insurance.txt) |
 | 2026-11-24 | 국제유가 3개월 만에 최저, 브렌트유 89달러대인데 우리 동네 기름값은 언제 내려갈까와 주유 전 확인법 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-24-intl-oil-3month-low-brent-89-local-price-lag-opinet-check.html) · [원문](posts/2026-11-24-intl-oil-3month-low-brent-89-local-price-lag-opinet-check.txt) |
 | 2026-11-23 | 중고차 광고 총비용 표시 의무화 입법예고, 수수료 포함 실제 가격과 연말 신차 할인 확인할 점 | 3장 | [글 보기](https://kimjindol2025.github.io/bigwash-blog-posts/p/2026-11-23-used-car-ad-total-cost-fee-display-yearend-new-car-discount.html) · [원문](posts/2026-11-23-used-car-ad-total-cost-fee-display-yearend-new-car-discount.txt) |
